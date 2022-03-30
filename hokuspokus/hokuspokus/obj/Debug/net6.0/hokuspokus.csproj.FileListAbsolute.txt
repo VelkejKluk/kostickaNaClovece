@@ -1,0 +1,15 @@
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.csproj.AssemblyReference.cache
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.AssemblyInfoInputs.cache
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.AssemblyInfo.cs
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.csproj.CoreCompileInputs.cache
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\bin\Debug\net6.0\hokuspokus.exe
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\bin\Debug\net6.0\hokuspokus.deps.json
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\bin\Debug\net6.0\hokuspokus.runtimeconfig.json
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\bin\Debug\net6.0\hokuspokus.dll
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\bin\Debug\net6.0\ref\hokuspokus.dll
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\bin\Debug\net6.0\hokuspokus.pdb
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.dll
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\ref\hokuspokus.dll
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.pdb
+C:\Users\josef.navratil\source\repos\hokuspokus\hokuspokus\obj\Debug\net6.0\hokuspokus.genruntimeconfig.cache
